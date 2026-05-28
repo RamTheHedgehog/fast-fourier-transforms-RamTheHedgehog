@@ -1,4 +1,4 @@
-"""STUDENT FILE: implement the Triton kernels and pipeline drivers.
+    """STUDENT FILE: implement the Triton kernels and pipeline drivers.
 
 You implement:
   - Six @triton.jit kernels: f1_kernel, f2_kernel, transpose_kernel,
